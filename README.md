@@ -3,6 +3,10 @@ Turn this:
 
 <img src="/Pictures/soap.jpg" alt="Soap Bubble"/>
 
+Into this:
+
+<img src="/Sample/sample_soap.png alt="Soap Bubble in Excel"/>
+
 ## Installation
 ```bash
 git clone https://www.github.com/PaulWendt96/Pixcel
