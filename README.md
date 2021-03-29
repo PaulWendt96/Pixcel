@@ -5,7 +5,7 @@ Turn this:
 
 Into this:
 
-<img src="/Sample/sample_soap.png alt="Soap Bubble in Excel"/>
+<img src="/Sample/sample_soap.png" alt="Soap Bubble in Excel"/>
 
 ## Installation
 ```bash
