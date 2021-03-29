@@ -1,5 +1,7 @@
 ## Pixcel
-Turn pictures into excel workbooks
+Turn this:
+
+<img src="/Pictures/soap.jpg" alt="Soap Bubble"/>
 
 ## Installation
 ```bash
