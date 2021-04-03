@@ -1,5 +1,5 @@
 ## Pixcel
-Enthrall your friends. Impress your boss. Enjoy art in the comfort of your own Excel.Application. 
+Enthrall your friends. Impress your boss. Enjoy art in the comfort of your own ```Excel.Application```. 
 
 <img src="/Sample/sample_soap.PNG" alt="Soap Bubble in Excel"/>
 
